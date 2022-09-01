@@ -1,0 +1,12 @@
+#This file will includes or excludes the files that we don't require.
+
+#This Comment will ignore everything in the core folder
+/*
+
+#This Comment will show the wp-content folder
+!wp-content
+
+!.gitignore
+
+
+
